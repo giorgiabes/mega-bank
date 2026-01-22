@@ -40,4 +40,4 @@ def init_database():
         return False
 
 
-init_database()
+# init_database()
